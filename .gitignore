@@ -1,0 +1,6 @@
+__MACOSX/
+bank-additional/
+catboost_info/
+pytorch_venv/
+*zip
+

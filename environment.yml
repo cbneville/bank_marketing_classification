@@ -1,0 +1,19 @@
+name: conda_torch
+channels:
+ - conda-forge
+ - anaconda
+ - pytorch
+dependencies:
+ - python=3.12
+ - numpy
+ - pandas
+ - matplotlib
+ - umap-learn
+ - scipy
+ - scikit-learn
+ - py-xgboost-cpu
+ - catboost
+ - pytorch
+ - pip
+ - pip:
+   - torcheval
